@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aravappdeveloper
 - 👀 I’m interested in: Game, app, and website development.
-- 🌱 I’m currently learning: Python, Neural Networks
+- 🌱 I’m currently learning: Python, Pretrained Models
 - 📫 How to reach me: arav.app.developer@gmail.com
 
 <!---
